@@ -22,8 +22,6 @@ The **Weight Converter** is a web application that allows users to input a weigh
 - **CSS**: Styles the converter, including responsive layout and error handling.
 - **JavaScript**: Manages user input validation, weight conversion, and DOM updates.
 
-
-
 ## Installation
 
 To get started with the project, follow these steps:
